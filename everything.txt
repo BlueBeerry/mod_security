@@ -1,1 +1,1 @@
-shazam = false
+shazam = true
